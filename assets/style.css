@@ -1,0 +1,20 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.container {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+i {
+    color: brown;
+}
+
+.finish {
+    text-decoration: line-through;
+}
